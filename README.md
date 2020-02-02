@@ -1,2 +1,2 @@
-# EhouarnPerret.Coursera.Python.DeepLearning
+# coursera-python-deep-learning
 My Coursera Deep Learning stuff 
